@@ -1,8 +1,8 @@
 from pathlib import Path
 
-API_ID=37071915
-API_HASH = '813aa290bbc1be070ff00f6ca8eb8a19'
-OWNER_ID = 940460718
+API_ID= 37308659
+API_HASH = 'b584091d4e41997b60fcaebfa298f4ed'
+OWNER_ID = 6096638678
 COMMAND_PATTERNS = [
     r'^\.startrp(?:\s+.*)?$',
     r'^\.unrp(?:\s+.*)?$',
